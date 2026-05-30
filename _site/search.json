@@ -1,0 +1,114 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Yicheng Shen",
+    "section": "",
+    "text": "I am a Ph.D. candidate in Biostatistics at Johns Hopkins University, jointly advised by Dr. Jiayi (Jessie) Tong and Dr. Elizabeth A. Stuart."
+  },
+  {
+    "objectID": "index.html#interests",
+    "href": "index.html#interests",
+    "title": "Yicheng Shen",
+    "section": "Interests",
+    "text": "Interests\nMy primary research interests focus on real-world evidence synthesis, causal inference, and federated learning. Specifically, I have developed efficient and lossless distributed algorithms for multivariate longitudinal healthcare data across institutions while preserving patient privacy.\nBeyond methodology, I am passionate about biostatistics education and have served as the lead organizer for the Biostatistics Education & Student Training (BEST) Seminar and the Johns Hopkins Causal Inference Working Group."
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Yicheng Shen",
+    "section": "Education",
+    "text": "Education\nJohns Hopkins University | Baltimore, MD Ph.D. in Biostatistics | Aug 2024 - Present\nDuke University | Durham, NC M.S. in Statistical Science | Aug 2022 - May 2024 | Advised by Dr. Hwanhee Hong & Dr. Alexander Volfovsky\nCarleton College | Northfield, MN B.A. in Statistics & Political Science | Aug 2018 - June 2022 | Advised by Dr. Andrew Poppick & Dr. Greg Marfleet"
+  },
+  {
+    "objectID": "index.html#honors-awards",
+    "href": "index.html#honors-awards",
+    "title": "Yicheng Shen",
+    "section": "Honors & Awards",
+    "text": "Honors & Awards\n\nTeaching Assistant of the Year Award (2024)\nDean’s Research Award for Master’s Students (2022 & 2023)\nPhi Beta Kappa Society & Sigma Xi Society (2022)\nMagna Cum Laude (2022)\nDean’s Honor List (Top 10% of Class, 2021)"
+  },
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching Experience",
+    "section": "",
+    "text": "Beyond methodological research, I am committed to statistics and biostatistics education, eventually bridging complex statistical theory with practical, computational implementation."
+  },
+  {
+    "objectID": "teaching.html#johns-hopkins-university",
+    "href": "teaching.html#johns-hopkins-university",
+    "title": "Teaching Experience",
+    "section": "Johns Hopkins University",
+    "text": "Johns Hopkins University\nTeaching Assistant (Aug 2025 – Present)\n\n140.751-2: Advanced Methods in Biostatistics\n140.778: Statistical Computing, Algorithm, and Software Development\n140.779: Advanced Statistical Computing"
+  },
+  {
+    "objectID": "teaching.html#duke-university",
+    "href": "teaching.html#duke-university",
+    "title": "Teaching Experience",
+    "section": "Duke University",
+    "text": "Duke University\nTeaching Assistant (Aug 2023 – May 2024)\n\nSTA 610: Multilevel and Hierarchical Models\nSTA 432: Theory and Methods of Statistical Learning and Inference"
+  },
+  {
+    "objectID": "teaching.html#carleton-college",
+    "href": "teaching.html#carleton-college",
+    "title": "Teaching Experience",
+    "section": "Carleton College",
+    "text": "Carleton College\nTeaching Assistant (Sep 2020 – May 2022)\n\nSTA 320: Time Series Analysis\nSTA 230: Applied Regression Analysis\nSTA 220: Introduction to Data Science"
+  },
+  {
+    "objectID": "teaching.html#quantitative-academic-advising",
+    "href": "teaching.html#quantitative-academic-advising",
+    "title": "Teaching Experience",
+    "section": "Quantitative & Academic Advising",
+    "text": "Quantitative & Academic Advising\n\nUndergraduate Student Departmental Advisor (Carleton College)\nComprehensive Integrative Exercise Consultant, Quantitative Resource Center (Northfield, MN | Sep 2021 – June 2022)\nStatistical Consultant (Northfield Area Family YMCA | Jan 2021 – Mar 2021)"
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research & Publications",
+    "section": "",
+    "text": "My work bridges causal inference, Bayesian hierarchical modeling, and privacy-preserving federated learning, particularly focusing on how to handle realistic incomplete data and longitudinal EHR data across multi-institutional cohorts."
+  },
+  {
+    "objectID": "research.html#methodological-interests",
+    "href": "research.html#methodological-interests",
+    "title": "Research & Publications",
+    "section": "",
+    "text": "My work bridges causal inference, Bayesian hierarchical modeling, and privacy-preserving federated learning, particularly focusing on how to handle realistic incomplete data and longitudinal EHR data across multi-institutional cohorts."
+  },
+  {
+    "objectID": "research.html#working-papers-preprints",
+    "href": "research.html#working-papers-preprints",
+    "title": "Research & Publications",
+    "section": "Working Papers & Preprints",
+    "text": "Working Papers & Preprints\n\nShen, Y., Kim, J., Luo, C., Zeger, S. L., Shah, A. A., Tong, J. (2026). MV-PEAL: A Federated Learning Framework for Multivariate Longitudinal EHR Data. [Submitted for the Annals of Applied Statistics]\n\nWinner of the 2026 ICSA Student Paper Award\n\nShen, Y., Kim, J., Luo, C., Zeger, S., Domsic, R. Shah, A., Tong, J. (2026). Unlocking Multi-Institutional Insights into Disease Progression with Federated Learning: PEAL as a Lossless, One-Shot Solution. [In press at npj Digital Medicine]\n\n2026 AI Research Day Student Award\n\nVazquez, J., Shen, Y., Sanderson, K., Akulian, J., Tong, J., Stuart, E. A.(2026). Federated Learning with Incomplete Data: A Weighted Approach. [Submitted for Biostatistics]\nWu, X., Shen, Y., Shan, M., Stuart, E., Lipkovich, I. (2026). Comparing Federated Learning Methods for Estimating Average Treatment Effects in a Target Population from Multiple Real-world Studies and Randomized Trials. [Manuscript in preparation for Statistics in Medicine]\nChao, A., Shen, Y., Ghanta, A., Silver, N., Milardo, R., Santos, C., Tong, J. (2025). Sex Differences in Response to Incretin-Based Medications for Obesity: Systematic Review and Meta-Analysis. [Invited Revision at Obesity Reviews]\nShen, Y., Chu, H., Hong, H. (2025). Simulation-Based Methods for Power Calculation in Bayesian Network Meta-Analysis. [Invited revision at Journal of the Royal Statistical Society Series C]\n\nHonorable Mention for the BEST Award for Master’s Research (2024)"
+  },
+  {
+    "objectID": "research.html#publications",
+    "href": "research.html#publications",
+    "title": "Research & Publications",
+    "section": "Publications",
+    "text": "Publications\n\nShen, Y., Bail, C., & Volfovsky, A. (2026). Enhancing joint ideal point estimation strategies with Twitter social networks and text data. Network Science, 14, e10. doi: 10.1017/nws.2026.10028\nShen, Y. (2022). Be Steady and Popular: a Modern Counter-Insurgency ABM. NetLogo Modeling Commons.\nShen, Y. (2022). Justified Cause? Assessing the Humanitarian Outcomes of US Foreign Aid and Intervention Since the Cold War. PoliS: Carleton Journal of Political Science, inaugural edition, pp.129-167.\n\nDistinction on Senior Thesis - Political Science (2022)\n\nShen, Y., Flignor, J., Nachreiner, L., & Wang, K. (2022). Behind the Smoke: An Extreme Value Analysis of Air Pollution in Minnesota. Consortium for the Advancement of Undergraduate Statistics Education, spring 2022 issue.\n\nFirst Prize in Undergraduate Statistics Research Project Competition (2022)\nDistinction on Senior Thesis - Statistics (2022)"
+  },
+  {
+    "objectID": "research.html#book-chapters",
+    "href": "research.html#book-chapters",
+    "title": "Research & Publications",
+    "section": "Book Chapters",
+    "text": "Book Chapters\n\nKnoke, D. (2025). Insurging. In Network Collective Action: Agent-Based Models of Pandemics, Riots, Social Movements, Insurrections and Insurgencies (pp. 89-100). Cham: Springer Nature Switzerland. (Coauthored Chapter)"
+  },
+  {
+    "objectID": "research.html#invited-conferences-presentations",
+    "href": "research.html#invited-conferences-presentations",
+    "title": "Research & Publications",
+    "section": "Invited Conferences & Presentations",
+    "text": "Invited Conferences & Presentations\n2026\n\nJoint Statistical Meeting (JSM)\nICSA Applied Statistics Symposium (Recipient of the NSF Travel Award)\nJohns Hopkins inHealth Precision Medicine Symposium\nPHAISE AI Research Day\nDuke Industry Statistics Symposium (DISS)\nEastern North American Region (ENAR) Spring Meeting\n\n2024\n\nEastern North American Region (ENAR) Spring Meeting\nDuke Industry Statistics Symposium (DISS)\nDuke Research Data Visualization Competition and Showcase\n\n2023\n\nNew Directions in Analyzing Text as Data (TADA) Conference (Recipient of the TADA Travel Award)\nDuke Health Data Science Poster Showcase\n\n2021 – 2022\n\nElectronic Undergraduate Statistics Research Conference (eUSR) (2022)\nNorthfield Undergraduate Mathematics Symposium (NUMS) (2021)\nCarleton Undergraduate Research and Internship Symposium (2021)"
+  },
+  {
+    "objectID": "research.html#published-software",
+    "href": "research.html#published-software",
+    "title": "Research & Publications",
+    "section": "Published Software",
+    "text": "Published Software\n\nPDA: Privacy-Preserving Distributed Algorithms (2025). R Package. Co-developed with Luo, C., Duan, R., Tong, J., & Chen, Y. Available on CRAN\nModel of Wheeler (2022). NetLogo Modeling Commons. Northwestern University Center for Connected Learning and Computer-Based Modeling, Evanston. Available Here"
+  }
+]

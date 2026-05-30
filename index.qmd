@@ -1,0 +1,59 @@
+---
+title: "Yicheng Shen"
+image: profile.jpg
+about:
+  template: trestles
+  image-width: 15em
+  image-shape: round
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:yshen128@jh.edu
+    - icon: github
+      text: GitHub
+      href: https://github.com/sheny2
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/yicheng-shen
+    - icon: twitter
+      text: Twitter
+      href: https://x.com/YichengShen7
+    - icon: file-earmark-pdf
+      text: CV
+      href: data/YichengShen_Academic_CV.pdf
+resources:
+  - "data/YichengShen_Academic_CV.pdf"
+    # - icon: mortarboard
+    #   text: Google Scholar
+    #   href: https://scholar.google.com/citations?user=ebjg6mUAAAAJ&hl=zh-CN&oi=sra
+---
+
+I am a Ph.D. candidate in Biostatistics at [Johns Hopkins University](https://publichealth.jhu.edu/departments/biostatistics/people/students/phd-student-profiles), jointly advised by Dr. [Jiayi (Jessie) Tong](https://jiayijessietong.github.io/) and Dr. [Elizabeth A. Stuart](https://www.elizabethstuart.org/). 
+
+
+## Interests
+
+My primary research interests focus on real-world evidence synthesis, causal inference, and federated learning. Specifically, I have developed efficient and lossless distributed algorithms for multivariate longitudinal healthcare data across institutions while preserving patient privacy. 
+
+Beyond methodology, I am passionate about biostatistics education and have served as the lead organizer for the Biostatistics Education & Student Training (BEST) Seminar and the [Johns Hopkins Causal Inference Working Group](https://jhsphcausalinference.weebly.com/).
+
+
+## Education
+
+**Johns Hopkins University** | Baltimore, MD
+Ph.D. in Biostatistics | Aug 2024 - Present
+
+**Duke University** | Durham, NC
+M.S. in Statistical Science | Aug 2022 - May 2024  | Advised by Dr. [Hwanhee Hong](http://www.hwanheehong.com/) & Dr. [Alexander Volfovsky](https://volfovsky.github.io/)
+
+**Carleton College** | Northfield, MN
+B.A. in Statistics & Political Science | Aug 2018 - June 2022 | Advised by Dr. [Andrew Poppick](https://www.carleton.edu/directory/apoppick/) & Dr. [Greg Marfleet](https://www.carleton.edu/directory/gmarfleet/)
+
+
+## Honors & Awards
+
+* Teaching Assistant of the Year Award (2024)
+* Dean's Research Award for Master's Students (2022 & 2023)
+* Phi Beta Kappa Society & Sigma Xi Society (2022)
+* Magna Cum Laude (2022)
+* Dean's Honor List (Top 10% of Class, 2021)

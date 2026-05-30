@@ -1,0 +1,38 @@
+---
+title: "Teaching Experience"
+---
+
+Beyond methodological research, I am committed to statistics and biostatistics education, eventually bridging complex statistical theory with practical, computational implementation.
+
+------------------------------------------------------------------------
+
+## Johns Hopkins University
+
+*Teaching Assistant (Aug 2025 – Present)*
+
+-   **140.751-2:** Advanced Methods in Biostatistics
+-   **140.778:** Statistical Computing, Algorithm, and Software Development
+-   **140.779:** Advanced Statistical Computing
+
+## Duke University
+
+*Teaching Assistant (Aug 2023 – May 2024)*
+
+-   **STA 610:** Multilevel and Hierarchical Models
+-   **STA 432:** Theory and Methods of Statistical Learning and Inference
+
+## Carleton College
+
+*Teaching Assistant (Sep 2020 – May 2022)*
+
+-   **STA 320:** Time Series Analysis
+-   **STA 230:** Applied Regression Analysis
+-   **STA 220:** Introduction to Data Science
+
+------------------------------------------------------------------------
+
+## Quantitative & Academic Advising
+
+-   **Undergraduate Student Departmental Advisor** (Carleton College)
+-   **Comprehensive Integrative Exercise Consultant**, Quantitative Resource Center (Northfield, MN \| Sep 2021 – June 2022)
+-   **Statistical Consultant** (Northfield Area Family YMCA \| Jan 2021 – Mar 2021)
