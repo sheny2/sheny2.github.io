@@ -17,12 +17,12 @@ My work bridges causal inference, Bayesian hierarchical modeling, and privacy-pr
 -   Vazquez, J., **Shen, Y.**, Sanderson, K., Akulian, J., Tong, J., Stuart, E. A.(2026). *Federated Learning with Incomplete Data: A Weighted Approach.* \[Submitted for Biostatistics\]
 -   Wu, X., **Shen, Y.**, Shan, M., Stuart, E., Lipkovich, I. (2026). *Comparing Federated Learning Methods for Estimating Average Treatment Effects in a Target Population from Multiple Real-world Studies and Randomized Trials.* \[Manuscript in preparation for Statistics in Medicine\]
 -   Chao, A., **Shen, Y.**, Ghanta, A., Silver, N., Milardo, R., Santos, C., Tong, J. (2025). *Sex Differences in Response to Incretin-Based Medications for Obesity: Systematic Review and Meta-Analysis.* \[Invited Revision at Obesity Reviews\]
--   **Shen, Y.**, Chu, H., Hong, H. (2025). *Simulation-Based Methods for Power Calculation in Bayesian Network Meta-Analysis.* \[Invited revision at Journal of the Royal Statistical Society Series C\]
+-   **Shen, Y.**, Chu, H., Hong, H. (2026). *Simulation-Based Methods for Power Calculation in Bayesian Network Meta-Analysis.* \[Invited revision at Journal of the Royal Statistical Society Series C\]
     -   **Honorable Mention for the BEST Award for Master's Research** (2024)
 
 ## Publications
 
--   **Shen, Y.**, Bail, C., & Volfovsky, A. (2026). *Enhancing joint ideal point estimation strategies with Twitter social networks and text data.* Network Science, 14, e10. doi: 10.1017/nws.2026.10028
+-   **Shen, Y.**, Bail, C., & Volfovsky, A. (2026). *Enhancing joint ideal point estimation strategies with Twitter social networks and text data.* Network Science, 14, e10. doi: https://doi.org/10.1017/nws.2026.10028
 -   **Shen, Y.** (2022). *Be Steady and Popular: a Modern Counter-Insurgency ABM.* NetLogo Modeling Commons.
 -   **Shen, Y.** (2022). *Justified Cause? Assessing the Humanitarian Outcomes of US Foreign Aid and Intervention Since the Cold War.* PoliS: Carleton Journal of Political Science, inaugural edition, pp.129-167.
     -   **Distinction on Senior Thesis - Political Science** (2022)

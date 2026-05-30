@@ -18,20 +18,17 @@ about:
     - icon: twitter
       text: Twitter
       href: https://x.com/YichengShen7
+    - icon: mortarboard
+      text: Google Scholar
+      href: https://scholar.google.com/citations?user=ebjg6mUAAAAJ&hl=en&oi=ao
     - icon: file-earmark-pdf
       text: CV
       href: data/YichengShen_Academic_CV.pdf
 resources:
   - "data/YichengShen_Academic_CV.pdf"
-    # - icon: mortarboard
-    #   text: Google Scholar
-    #   href: https://scholar.google.com/citations?user=ebjg6mUAAAAJ&hl=zh-CN&oi=sra
 ---
 
 I am a Ph.D. candidate in Biostatistics at [Johns Hopkins University](https://publichealth.jhu.edu/departments/biostatistics/people/students/phd-student-profiles), jointly advised by Dr. [Jiayi (Jessie) Tong](https://jiayijessietong.github.io/) and Dr. [Elizabeth A. Stuart](https://www.elizabethstuart.org/). 
-
-
-## Interests
 
 My primary research interests focus on real-world evidence synthesis, causal inference, and federated learning. Specifically, I have developed efficient and lossless distributed algorithms for multivariate longitudinal healthcare data across institutions while preserving patient privacy. 
 

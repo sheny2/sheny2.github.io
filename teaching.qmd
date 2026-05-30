@@ -2,8 +2,6 @@
 title: "Teaching Experience"
 ---
 
-Beyond methodological research, I am committed to statistics and biostatistics education, eventually bridging complex statistical theory with practical, computational implementation.
-
 ------------------------------------------------------------------------
 
 ## Johns Hopkins University
