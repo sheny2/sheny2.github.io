@@ -1,10 +1,66 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Yicheng Shen",
     "section": "",
-    "text": "About this site"
+    "text": "I am a Ph.D. candidate in Biostatistics at Johns Hopkins University, jointly advised by Dr. Jiayi (Jessie) Tong and Dr. Elizabeth A. Stuart."
+  },
+  {
+    "objectID": "index.html#interests",
+    "href": "index.html#interests",
+    "title": "Yicheng Shen",
+    "section": "Interests",
+    "text": "Interests\nMy primary research interests focus on real-world evidence synthesis, causal inference, and federated learning. Specifically, I have developed efficient and lossless distributed algorithms for multivariate longitudinal healthcare data across institutions while preserving patient privacy.\nBeyond methodology, I am passionate about biostatistics education and have served as the lead organizer for the Biostatistics Education & Student Training (BEST) Seminar and the Johns Hopkins Causal Inference Working Group."
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Yicheng Shen",
+    "section": "Education",
+    "text": "Education\nJohns Hopkins University | Baltimore, MD Ph.D. in Biostatistics | Aug 2024 - Present\nDuke University | Durham, NC M.S. in Statistical Science | Aug 2022 - May 2024 | Advised by Dr. Hwanhee Hong & Dr. Alexander Volfovsky\nCarleton College | Northfield, MN B.A. in Statistics & Political Science | Aug 2018 - June 2022 | Advised by Dr. Andrew Poppick & Dr. Greg Marfleet"
+  },
+  {
+    "objectID": "index.html#honors-awards",
+    "href": "index.html#honors-awards",
+    "title": "Yicheng Shen",
+    "section": "Honors & Awards",
+    "text": "Honors & Awards\n\nTeaching Assistant of the Year Award (2024)\nDean’s Research Award for Master’s Students (2022 & 2023)\nPhi Beta Kappa Society & Sigma Xi Society (2022)\nMagna Cum Laude (2022)\nDean’s Honor List (Top 10% of Class, 2021)"
+  },
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching Experience",
+    "section": "",
+    "text": "Beyond methodological research, I am committed to statistics and biostatistics education, eventually bridging complex statistical theory with practical, computational implementation."
+  },
+  {
+    "objectID": "teaching.html#johns-hopkins-university",
+    "href": "teaching.html#johns-hopkins-university",
+    "title": "Teaching Experience",
+    "section": "Johns Hopkins University",
+    "text": "Johns Hopkins University\nTeaching Assistant (Aug 2025 – Present)\n\n140.751-2: Advanced Methods in Biostatistics\n140.778: Statistical Computing, Algorithm, and Software Development\n140.779: Advanced Statistical Computing"
+  },
+  {
+    "objectID": "teaching.html#duke-university",
+    "href": "teaching.html#duke-university",
+    "title": "Teaching Experience",
+    "section": "Duke University",
+    "text": "Duke University\nTeaching Assistant (Aug 2023 – May 2024)\n\nSTA 610: Multilevel and Hierarchical Models\nSTA 432: Theory and Methods of Statistical Learning and Inference"
+  },
+  {
+    "objectID": "teaching.html#carleton-college",
+    "href": "teaching.html#carleton-college",
+    "title": "Teaching Experience",
+    "section": "Carleton College",
+    "text": "Carleton College\nTeaching Assistant (Sep 2020 – May 2022)\n\nSTA 320: Time Series Analysis\nSTA 230: Applied Regression Analysis\nSTA 220: Introduction to Data Science"
+  },
+  {
+    "objectID": "teaching.html#quantitative-academic-advising",
+    "href": "teaching.html#quantitative-academic-advising",
+    "title": "Teaching Experience",
+    "section": "Quantitative & Academic Advising",
+    "text": "Quantitative & Academic Advising\n\nUndergraduate Student Departmental Advisor (Carleton College)\nComprehensive Integrative Exercise Consultant, Quantitative Resource Center (Northfield, MN | Sep 2021 – June 2022)\nStatistical Consultant (Northfield Area Family YMCA | Jan 2021 – Mar 2021)"
   },
   {
     "objectID": "research.html",
@@ -54,47 +110,5 @@
     "title": "Research & Publications",
     "section": "Published Software",
     "text": "Published Software\n\nPDA: Privacy-Preserving Distributed Algorithms (2025). R Package. Co-developed with Luo, C., Duan, R., Tong, J., & Chen, Y. Available on CRAN\nModel of Wheeler (2022). NetLogo Modeling Commons. Northwestern University Center for Connected Learning and Computer-Based Modeling, Evanston. Available Here"
-  },
-  {
-    "objectID": "teaching.html",
-    "href": "teaching.html",
-    "title": "Teaching Experience",
-    "section": "",
-    "text": "Beyond methodological research, I am committed to statistics and biostatistics education, eventually bridging complex statistical theory with practical, computational implementation."
-  },
-  {
-    "objectID": "teaching.html#johns-hopkins-university",
-    "href": "teaching.html#johns-hopkins-university",
-    "title": "Teaching Experience",
-    "section": "Johns Hopkins University",
-    "text": "Johns Hopkins University\nTeaching Assistant (Aug 2025 – Present)\n\n140.751-2: Advanced Methods in Biostatistics\n140.778: Statistical Computing, Algorithm, and Software Development\n140.779: Advanced Statistical Computing"
-  },
-  {
-    "objectID": "teaching.html#duke-university",
-    "href": "teaching.html#duke-university",
-    "title": "Teaching Experience",
-    "section": "Duke University",
-    "text": "Duke University\nTeaching Assistant (Aug 2023 – May 2024)\n\nSTA 610: Multilevel and Hierarchical Models\nSTA 432: Theory and Methods of Statistical Learning and Inference"
-  },
-  {
-    "objectID": "teaching.html#carleton-college",
-    "href": "teaching.html#carleton-college",
-    "title": "Teaching Experience",
-    "section": "Carleton College",
-    "text": "Carleton College\nTeaching Assistant (Sep 2020 – May 2022)\n\nSTA 320: Time Series Analysis\nSTA 230: Applied Regression Analysis\nSTA 220: Introduction to Data Science"
-  },
-  {
-    "objectID": "teaching.html#quantitative-academic-advising",
-    "href": "teaching.html#quantitative-academic-advising",
-    "title": "Teaching Experience",
-    "section": "Quantitative & Academic Advising",
-    "text": "Quantitative & Academic Advising\n\nUndergraduate Student Departmental Advisor (Carleton College)\nComprehensive Integrative Exercise Consultant, Quantitative Resource Center (Northfield, MN | Sep 2021 – June 2022)\nStatistical Consultant (Northfield Area Family YMCA | Jan 2021 – Mar 2021)"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "yicheng-shen",
-    "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
   }
 ]
