@@ -11,6 +11,9 @@ title: "Teaching Experience"
 -   **140.751-2:** Advanced Methods in Biostatistics
 -   **140.778:** Statistical Computing, Algorithm, and Software Development
 -   **140.779:** Advanced Statistical Computing
+-   **140.641:** Survival Analysis
+-   **140.622:** Statistical Methods in Public Health 
+
 
 ## Duke University
 

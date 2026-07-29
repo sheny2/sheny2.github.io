@@ -32,7 +32,7 @@ I am a Ph.D. candidate in Biostatistics at [Johns Hopkins University](https://pu
 
 My primary research interests focus on real-world evidence synthesis, causal inference, and federated learning. Specifically, I have developed efficient and lossless distributed algorithms for multivariate longitudinal healthcare data across institutions while preserving patient privacy. 
 
-Beyond methodology, I am passionate about biostatistics education and have served as the lead organizer for the Biostatistics Education & Student Training (BEST) Seminar and the [Johns Hopkins Causal Inference Working Group](https://jhsphcausalinference.weebly.com/).
+Beyond methodology, I am passionate about biostatistics education and have served as the lead organizer for the Biostatistics Education & Student Training ([BEST](https://publichealth.jhu.edu/departments/biostatistics/about/student-groups)) Seminar and the [Johns Hopkins Causal Inference Working Group](https://jhsphcausalinference.weebly.com/).
 
 
 ## Education
@@ -49,8 +49,12 @@ B.A. in Statistics & Political Science | Aug 2018 - June 2022 | Advised by Dr. [
 
 ## Honors & Awards
 
-* Teaching Assistant of the Year Award (2024)
-* Dean's Research Award for Master's Students (2022 & 2023)
-* Phi Beta Kappa Society & Sigma Xi Society (2022)
-* Magna Cum Laude (2022)
+* ICSA [Student Paper Award](https://symposium2026.icsa.org/icsa-symposium-awards/) Winner (2026)
+* [PHAISE AI Research Day Student Award](https://www.linkedin.com/posts/this-past-monday-we-were-excited-to-welcome-ugcPost-7442193531806433281-NBL-/) at Johns Hopkins University (2026)
+* [Teaching Assistant of the Year Award](https://stat.duke.edu/past-recipients) at Duke University (2024)
+* Honorable Mention for [BEST Award for Student Research](https://stat.duke.edu/about/best-awards/past-recipients) at Duke University (2024)
+* [Dean's Research Award for Master's Students](https://gradschool.duke.edu/about/news/deans-research-award-masters-students-2023-2024/) at Duke University (2023)
+* [Dean's Research Award for Master's Students](https://gradschool.duke.edu/about/news/deans-research-award-masters-students-2022-2023/)  at Duke University (2022)
+* Phi Beta Kappa Society & Sigma Xi Society at Carleton College (2022)
+* [Magna Cum Laude](https://carleton-wp-production.s3.amazonaws.com/uploads/sites/718/2022/07/Commencement-2022-Program.pdf) at Carleton College (2022)
 * Dean's Honor List (Top 10% of Class, 2021)
