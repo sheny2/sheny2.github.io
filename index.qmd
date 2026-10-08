@@ -38,7 +38,7 @@ Beyond methodology, I am passionate about biostatistics education and have serve
 ## Education
 
 **Johns Hopkins University** | Baltimore, MD
-Ph.D. in Biostatistics | Aug 2024 - Present
+Ph.D. in Biostatistics | Aug 2024 - Present | Advised by Dr. [Jiayi (Jessie) Tong](https://jiayijessietong.github.io/) and Dr. [Elizabeth A. Stuart](https://www.elizabethstuart.org/). 
 
 **Duke University** | Durham, NC
 M.S. in Statistical Science | Aug 2022 - May 2024  | Advised by Dr. [Hwanhee Hong](http://www.hwanheehong.com/) & Dr. [Alexander Volfovsky](https://volfovsky.github.io/)
@@ -49,7 +49,9 @@ B.A. in Statistics & Political Science | Aug 2018 - June 2022 | Advised by Dr. [
 
 ## Honors & Awards
 
-* ICSA [Student Paper Award](https://symposium2026.icsa.org/icsa-symposium-awards/) Winner (2026)
+* New England Rare Disease Statistics Workshop [Paper Award](https://nerds.nestat.org/index.html) (2026)
+
+* ICSA Applied Statistics Symposium [Student Paper Award](https://symposium2026.icsa.org/icsa-symposium-awards/) (2026)
 * [PHAISE AI Research Day Student Award](https://www.linkedin.com/posts/this-past-monday-we-were-excited-to-welcome-ugcPost-7442193531806433281-NBL-/) at Johns Hopkins University (2026)
 * [Teaching Assistant of the Year Award](https://stat.duke.edu/past-recipients) at Duke University (2024)
 * Honorable Mention for [BEST Award for Student Research](https://stat.duke.edu/about/best-awards/past-recipients) at Duke University (2024)
